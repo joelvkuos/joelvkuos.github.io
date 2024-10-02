@@ -90,7 +90,6 @@ hr {
     font-family: sans-serif;
     color: #d1f0fd;
     font-size: large;
-
 }
 
 .p2#p2 {
@@ -165,4 +164,10 @@ hr {
     .col-12 {
         width: 100%;
     }
+}
+
+footer {
+    text-align: center;
+    font-family: sans-serif;
+    color: #d1f0fd;
 }
