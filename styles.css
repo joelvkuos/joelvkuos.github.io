@@ -1,6 +1,7 @@
 body {
     background-color: #67645e;
     margin: 0;
+    text-align: 20px;
 }
 
 * {
@@ -174,5 +175,11 @@ a {
 footer {
     text-align: center;
     font-family: sans-serif;
+    background: #67645e;
     color: #d1f0fd;
+    position: static;
+    left: 0;
+    bottom: 0;
+    margin-top: 10%;
+    width: 100%;
 }
